@@ -1,4 +1,4 @@
-![Music Mixology](https://github.com/sourceduty/Music_Mixology/assets/123030236/6ef520d4-64c1-472a-b1de-a5855a7d2bf6)
+![Music Mixology](https://github.com/sourceduty/Music_Mixology/assets/123030236/86bce2fd-5f91-46a2-8be1-dc63c2b432a9)
 
 [Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology) is a specialized tool developed to help individuals develop and refine their skills in music mixing. It offers a unique, interactive learning experience tailored to the needs and experience levels of users, from beginners to advanced practitioners. Through a series of guided questions, Music Mixology assesses each user's specific needs, preferences, and current skill level. This personalized approach allows the tool to provide targeted advice and step-by-step instructions on various aspects of music mixing, including the use of different techniques, tools, and styles.
 
