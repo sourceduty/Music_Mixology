@@ -9,6 +9,10 @@
 The assistance provided by Music Mixology is multifaceted. It helps users understand the fundamental components of music mixing, such as equalization, compression, and effects application. Additionally, it offers guidance on more complex concepts like creating spatial effects and achieving balance and cohesion in a mix. For those new to music production, it demystifies technical jargon and breaks down complex concepts into manageable steps. For more experienced users, it can offer advanced techniques and tips to refine their craft, explore new creative possibilities, and enhance the overall quality of their mixes. Thus, Music Mixology serves as a comprehensive resource for learning and mastering the art of music mixing.
 
 #
+
+![Audio](https://github.com/user-attachments/assets/128d1381-7f7b-45dd-8e71-2b5a04188488)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
