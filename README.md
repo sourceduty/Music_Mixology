@@ -10,7 +10,7 @@ The assistance provided by Music Mixology is multifaceted. It helps users unders
 
 #
 
-![Audio](https://github.com/user-attachments/assets/128d1381-7f7b-45dd-8e71-2b5a04188488)
+![Speakerland](https://github.com/user-attachments/assets/34cbf20a-cd5b-404d-902a-0fae61104d91)
 
 #
 ### Related Links
